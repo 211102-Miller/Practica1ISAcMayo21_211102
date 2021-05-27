@@ -1,6 +1,6 @@
 import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;
 
-public class Concatenacion {
+public class EjemploPractica{
  
     public static void main(String[] args){
         String usuario = "Juan";
